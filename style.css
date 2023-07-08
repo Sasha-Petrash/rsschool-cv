@@ -10,13 +10,16 @@ body {
   justify-content: space-between;
 }
 .header {
-  border: 1px solid red;
+  border: 1px solid black;
+  background: rgb(147, 233, 147);
 }
 .main {
-  border: 1px solid red;
+  border: 1px solid rgb(9, 0, 0);
 }
 .footer {
-  border: 1px solid red;
+  border: 1px solid black;
+  background: rgb(80, 187, 80);
+  color: antiquewhite;
 }
 .container {
   max-width: 1440px;
@@ -53,4 +56,14 @@ body {
 }
 html {
   scroll-behavior: smooth; 
+}
+.footer-row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.footer-rss {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between; 
 }
