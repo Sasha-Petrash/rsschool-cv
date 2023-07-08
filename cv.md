@@ -4,15 +4,17 @@
 - Mobile: +375256165081 
 - Discord: sasha_petrash
 ---
- ##### Summary:
+##### Summary:
 - Trying to learn a new profession 
 ---
 ##### Skills:
-
+-Git
+-Github
+-Basic HTML
+-Basic CSS
 ---
 ##### Code examples:
-
-
+`section class="section" id="code_examples`
 ---
 ##### Education:
 - Branch of BNTU "Minsk State Polytechnic College"
@@ -27,4 +29,6 @@
 ##### Languages:
 - Belarus
 - Russian
----
+##### English:
+- A2 - Elementary
+
