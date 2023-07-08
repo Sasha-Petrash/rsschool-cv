@@ -67,3 +67,9 @@ html {
   flex-direction: row;
   justify-content: space-between; 
 }
+.foto{
+  max-width: 50%;
+  height: auto;
+  border-radius: 50%;
+  
+}
